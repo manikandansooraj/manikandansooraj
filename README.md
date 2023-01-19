@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manikandansooraj
 - 👀 I’m interested in python and django
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working in GMR Group.
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me manikandansooraj12@gmail.com
 
